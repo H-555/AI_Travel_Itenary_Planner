@@ -1,12 +1,12 @@
-# AI_Travel_Itenary_Planner using llama3.1.
+# AI_Travel_Itenary_Planner using llama3.1
 It automates the process of researching, planning, and organizing your dream vacation, allowing you to explore exciting destinations with ease.
 
 # Features
-Research and discover exciting travel destinations, activities, and accommodations
+Research and discover exciting travel destinations, activities, Foods and accommodations
 
-Customize your itinerary based on the number of days you want to travel
+Customize your itinerary based on the number of days you want to travel and budget
 
-Utilize the power of GPT-4o to generate intelligent and personalized travel plans
+Utilize the power of llama3.1 to generate intelligent and personalized travel plans
 
 # Requirements
 Install the required dependencies:
@@ -17,6 +17,7 @@ pip install pyautogen
 
 # How it Works?
 The AI Travel Agent has 5 main components:
+
 Information_agent - Collects destination, Travel Days, number of people and Budget.
 
 Sight_seeing_Agent - Collects preference of sight seeing and activities and do the research.
