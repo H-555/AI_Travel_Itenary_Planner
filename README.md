@@ -1,4 +1,4 @@
-# AI_Travel_Itenary_Planner using llama3.1
+# AI_Travel_Itinerary_Planner using llama3.1
 It automates the process of researching, planning, and organizing your dream vacation, allowing you to explore exciting destinations with ease.
 
 # Features
